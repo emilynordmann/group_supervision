@@ -3,11 +3,9 @@ title: "Setting expectations for dissertation students"
 editor: visual
 ---
 
-I provide some information for students before dissertation supervision starts, so that they know how I work as a supervisor, what they can expect from supervision from me, and also what my expectations are from them as supervisees.
-
 ## Overview
 
-Hello, and welcome to your dissertation! As you know, I'm Ashley and I'll be your dissertation supervisor this year.
+Hello, and welcome to your dissertation! As you know, I'm Emily and I'll be your dissertation supervisor this year.
 
 Every dissertation project is different, and the way I tend to supervise is to focus on us working together (both you and I, and also us as a group with your peers) to support you to develop a range of skills, culminating in your dissertation write up. I tend to be quite structured as a supervisor, and this is one reason I developed this document, as it will outline the process for you in advance, so you know what to expect. If there is something you would like added, let me know and I'll see what I can do.
 
@@ -21,7 +19,7 @@ I ask that all students working with me communicate with me, letting me know if 
 
 ### Attendance
 
-I ask that all students attend group sessions unless there is something urgent that has come up. Individual sessions are more flexible and can be cancelled if you feel that you don't need to meet in a particular week (although please let me know in advance if this is the case). Group sessions are held for 1h every fortnight, with individual sessions being 30 mins, held in the weeks that we are not meeting as a group.
+I ask that all students attend group sessions unless there is something urgent that has come up. Individual drop-ins are flexible and you don't need to attend if you feel that you don't need to meet in a particular week. Group sessions are held for 1.5h every fortnight, with individual drop-ins held in the weeks that we are not meeting as a group.
 
 ### Supportive space
 
@@ -33,23 +31,19 @@ Dissertation meetings will be held every week, with individual meetings and grou
 
 **Semester 1**
 
--   Group meetings (1 hour): Weeks 1, 3, 5, 7, 9, 11
+-   Group meetings: Weeks 1, 3, 5, 7, 9, 11
 
--   Individual meetings (30 mins): Weeks 2, 4, 6, 8, 10, 12
+-   Individual drop-ins: Weeks 2, 4, 6, 8, 10, 12
 
 **Semester 2**
 
--   Group meetings (1 hour): Weeks 1, 3, 5, 7, 9 (plus a 1.5h session in week 11)
+-   Group meetings: Weeks 1, 3, 5, 7, 9, 11
 
--   Individual meetings (30 mins): Weeks 2, 4, 6, 8, 10
+-   Individual drop-ins: Weeks 2, 4, 6, 8, 10
 
 All meetings will be held in my office. I will send outlook invitations for all supervisions, so that they are in Outlook calendars.
 
 We will most likely have to select a different time for Semesters 1 and 2, due to changes in timetables/teaching, but can revisit this nearer to the end of Semester 1.
-
-**Semester 1 group meeting time**: Wednesdays 12-1pm
-
-**Semester 2 group meeting time**: Wednesdays 11am-12pm
 
 ## Deadlines
 
@@ -57,7 +51,9 @@ We will set deadlines for you to submit the following: proposal, ethics, introdu
 
 ### Ethics
 
-We will prioritise the ethics application from the very start - the reason for this is that you cannot recruit data unless you have your ethics approved, meaning that delayed applications can bring a project to a halt.
+For those doing primary data collection. we will prioritise the ethics application from the very start - the reason for this is that you cannot recruit data unless you have your ethics approved, meaning that delayed applications can bring a project to a halt.
+
+For secondary data projects, your priority is the research proposal and aligning a RQ with a data source.
 
 ### Dissertation
 
@@ -67,17 +63,15 @@ Although it is unusual for this to be an issue, there will be a point where I am
 
 ## Communication
 
-I have set up a Teams with a couple of channels that you can access - I have a General one for all of my dissertation students and your Level 4 (24-25) one (which we will use most of the time).
+I have set up a Teams with a couple of channels that you can access - I have a General one for all of my dissertation students and your individual private channels.
 
-Please direct message me (rather than email) with your ethics documents, proposal, and any draft dissertation sections.
-
-Most questions should be posted in the teams channel - if you have something that is personal and therefore not appropriate to be shared with the whole team, then it is okay to DM. I prefer DM on teams over email, as my email inbox is harder to keep on top of.
+Please use the channel to send me any messages or sahre drafts rather than using private email. If it's a question that the whole group would benefit from seeing the answer to, please post it on the General channel.
 
 ## Feedback
 
 ### When you can expect feedback
 
-For ethics and the proposal, feedback will tend to be returned within a few days or a week. For dissertation section drafts, I will usually aim to provide feedback within two weeks. This is because drafts tend to be in semester 2, when I have most of my teaching. Depending on my teaching/marking commitments, this may take longer, but I will communicate with you about this at the time. You will also be able to see where you are in the 'feedback queue' in the shared deadlines document.
+Generally speaking I aim to return all feedback in one week. There are certain times of the semester when my teaching load is heaviest when it might be two weeks but I will always be clear about this.
 
 ### What type of feedback you will receive
 
@@ -129,9 +123,7 @@ I have planned out the group sessions as follows (although these are subject to 
 
 ### Individual sessions
 
-Individual sessions are dedicated slots each fortnight for you. Here, we will tend to catch up on how your project is going, and you will have the opportunity to ask questions. These may be used more often at certain points in the year (e.g. getting ethics together) than others (e.g. once your data collection is all set up).
-
-Most people come along every week, but if you find one week that you don't need to meet, it's not an issue - just let me know and we can cancel it.
+Individual drop ins are on the weeks when we don't meet as a group. Here, we will tend to catch up on how your project is going, and you will have the opportunity to ask questions specific to your project. These may be used more often at certain points in the year (e.g. getting ethics together) than others (e.g. once your data collection is all set up).
 
 ## Peer Review
 
@@ -141,6 +133,6 @@ I will provide some guidelines around peer review, and you can choose whether to
 
 ## Future aspirations
 
-I realise that some people get a bit nervous when asked the 'what are your plans after graduation?' question, but I will ask you about this at some point during semester 1. I will most likely do this in individual supervision. The reason that I do it is so that I can see if there is anything I/your peers can do throughout the dissertation process to support your future plans.
+I realise that some people get a bit nervous when asked the 'what are your plans after graduation?' question, but I will ask you about this at some point during semester 1. I will most likely do this in individual drop-ins. The reason that I do it is so that I can see if there is anything I/your peers can do throughout the dissertation process to support your future plans.
 
 If you don't know what you want to do, this is also fine, but it is then about seeing if we can maximise development of your employability skills, which will then be helpful in whichever direction you decide to go in :).

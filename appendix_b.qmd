@@ -11,95 +11,147 @@ In this chapter, I've included all resources that are included in the book. They
 
 [Research Methods 2](https://wtoivo.github.io/RM2-ODL-quali-book/qualitative-report.html?q=research%20ques#developing-a-research-question) has some tips for students on how to construct Research Questions for qualitative research
 
+## Secondary data 
+
+If you’re using secondary data for your dissertation, this means that you’re not going to create data yourself, instead, you’re going to use data that already exists. Secondary data can offer several advantages such as saving time, resources, and providing access to a wider scope of data than might be feasible for you to collect yourself. Secondary data can come in several different forms.
+
+**Academic Research Data:** Many researchers collect more data than they use in their studies. This unused data can sometimes be accessed and reanalysed to answer a different research question than was originally proposed. This data is typically rigorously collected and validated, making it a reliable source. Reanalysing this data allows you to expand upon the original research, or approach it from a new perspective.
+
+**Public Databases:** Numerous governmental, institutional, or organisation-run databases exist that provide a wealth of demographic, health, societal, and other types of data. Such databases can be national or international in scope, offering a vast amount of data for potential research questions.
+
+**Social Media and Online Data:** Internet sources such as social media platforms, forums, and blogs generate a vast amount of data every day. These sources can provide rich qualitative and quantitative data for various research questions. For example, a thematic analysis of posts on a specific topic on Reddit can offer insights into people's attitudes, experiences, or behaviors. However, it's crucial to ensure that any use of this type of data is respectful of privacy considerations and adheres to ethical guidelines.
+
+It’s important that your research question is aligned with the data that is available to you. Start by formulating a broad research question based on the literature as you would for primary research and then start looking for sources of data that might allow you to answer that question. You'll find that you probably have to go back-and-forth between your RQ and looking for data until you find a good alignment. This means the set-up part of your dissertation will take longer than primary data collection, but, you don’t then have the time-consuming process of data collection so it all balances out.
+
+Finally, it's essential to consider any ethical implications of your data sources and ensure you have the necessary permissions to access and use the data. Some secondary data sources may require you to obtain approval, provide acknowledgment, or adhere to specific usage policies. Always ensure to comply with these requirements and respect the rights of the original data collectors and participants.
+
+-   [Journal of Open Psychology Data](https://openpsychologydata.metajnl.com/) 
+
+```{=html}
+<!-- -->
+```
+-   [Secondary data sources](https://tvpollet.github.io/secondary_data_sources) - useful blog with a list of databases you can use to source secondary data 
+
+```{=html}
+<!-- -->
+```
+-   [BPS Ethics guidelines for internet-mediated research](https://explore.bps.org.uk/content/report-guideline/bpsrep.2021.rep155) 
+
+```{=html}
+<!-- -->
+```
+-   [Preregistration of Secondary Data Analysis Template](https://osf.io/jqxfz) 
+
+```{=html}
+<!-- -->
+```
+-   [Studying Reddit: A Systematic Overview of Disciplines, Approaches, Methods, and Ethics](https://journals.sagepub.com/doi/full/10.1177/20563051211019004) 
+
+```{=html}
+<!-- -->
+```
+-   [‘Scraping’ Reddit posts for academic research? Addressing some blurred lines of consent in growing internet-based research trend during the time of Covid-19](https://www.tandfonline.com/doi/full/10.1080/13645579.2022.2111816) 
+
+```{=html}
+<!-- -->
+```
+-   [Secondary Data Analysis: An Introduction for Psychologists](https://www.jstor.org/stable/j.ctv1chrxvs) 
+
 ## Ethics
 
-**Specific to Psychology, School of Psychology & Neuroscience**: The Moodle (Level 4, PGT) has a folder with templates and exemplars for ethics that should be used
+-   **Specific to Psychology, School of Psychology & Neuroscience**: The Moodle (Level 4, PGT) has a folder with templates and exemplars for ethics that should be used
 
-Guidance from Dr Emily Nordmann on [extended debriefs for Level 1 students](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EUSN-v4byCtGut-nlQeYqQQBwg8oTSElTx0NbAe98SZ_tw?e=2YZNvP) and [how to recruit on SONA](https://sway.cloud.microsoft/7OlDu5WmOmFjqDki?ref=Link&loc=play)
+-   Guidance on [extended debriefs for Level 1 students](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EUSN-v4byCtGut-nlQeYqQQBwg8oTSElTx0NbAe98SZ_tw?e=2YZNvP) and [how to recruit on SONA](https://sway.cloud.microsoft/7OlDu5WmOmFjqDki?ref=Link&loc=play)
 
-[Guidance on SONA](https://gla-my.sharepoint.com/:b:/g/personal/ashley_robertson_glasgow_ac_uk/EaSibUgmSh1IpgvFOpf3kBoBH7fD4NiT29yNVP0fvblWYA?e=ZtuuEg)
+-   [Guidance on SONA](https://gla-my.sharepoint.com/:b:/g/personal/ashley_robertson_glasgow_ac_uk/EaSibUgmSh1IpgvFOpf3kBoBH7fD4NiT29yNVP0fvblWYA?e=ZtuuEg)
+
+-   [Examples of previous ethics applications](https://gla-my.sharepoint.com/:f:/g/personal/emily_nordmann_glasgow_ac_uk/EtTP2GhYo3xEmtqdkXAn2w8BM9nk11WZPsS5l-_AV6Pm6Q?e=CWG3n9) – this folder contains ethics applications for a mixed method survey and a focus group study conducted with neurodivergent students.  
+
+-   If you are submitting to College ethics you will need a copy of my CV which you can [find here](https://gla-my.sharepoint.com/:b:/g/personal/emily_nordmann_glasgow_ac_uk/EQnICX67QuNGmyRGVp9LhcIBe2uGbVWtFaBrhkGeToQKaQ?e=hRa6mN). 
+
+## **Software** 
+
+If you are collecting primary data, for surveys and questionnaires I prefer Qualtrics. We have a UofG licence and there’s more information and the login via [UofG IT](https://www.gla.ac.uk/myglasgow/it/softwareandonlinetools/qualtrics/).  
+
+-   Qualtrics is very powerful and doesn’t just do surveys, you can build experiments with randomised trials and between-subject conditions into it: [Building a psychology experiment](http://sites.cognitivescience.co/qualtrics/building-a-psychology-experiment) 
 
 ## Summarising a paper
 
-[My suggestions](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EeJ0BD6jBxpPqnh4Qdfsu-sB6QIS0hng8LFe1AMx9AP_ow?e=hJLrOP) on summarising papers
+-   [Guidance for Dr. Ashley Roberts](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EeJ0BD6jBxpPqnh4Qdfsu-sB6QIS0hng8LFe1AMx9AP_ow?e=hJLrOP)on on summarising papers
 
-[Teach Science.org notes on how to take notes on a research paper](https://teachpsychscience.org/index.php/a-guide-and-template-for-taking-notes-on-research/815/communicating-science/)
+-   [Teach Science.org notes on how to take notes on a research paper](https://teachpsychscience.org/index.php/a-guide-and-template-for-taking-notes-on-research/815/communicating-science/)
 
 ## Writing a bullet point intro
 
-[My suggestions](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EQXjzrHXEi5Fn_j_vqSYMk8BPqPqgMzNwBoPSZSvuvMd5w?e=k7i4GS) on writing a bullet point intro
+-   [Ashley's suggestions](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EQXjzrHXEi5Fn_j_vqSYMk8BPqPqgMzNwBoPSZSvuvMd5w?e=k7i4GS) on writing a bullet point intro
 
 ## Developing a rationale
 
-[Wil's resource](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EXHOBRvN14dLoThMX6zBEd0B7dxgXh3t7zcUhc5H7CSOjw?e=HeDnPs) on developing a rationale
+-   [Wil Toivo's resource](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EXHOBRvN14dLoThMX6zBEd0B7dxgXh3t7zcUhc5H7CSOjw?e=HeDnPs) on developing a rationale
 
 ## Analysis in Quantitative Research
 
-[Activity 2 from Lab 9 in RM2](https://wtoivo.github.io/RM2-F2F-quali-book/labs.html#lab-9-activity-2-going-deeper-in-your-analysis)
+-   [Activity 2 from Lab 9 in RM2](https://wtoivo.github.io/RM2-F2F-quali-book/labs.html#lab-9-activity-2-going-deeper-in-your-analysis)
 
-[Level 1 data skills](https://psyteachr.github.io/data-skills-v2/)
+-   [Level 1 data skills](https://psyteachr.github.io/data-skills-v2/)
 
-[Level 2 data skills](https://psyteachr.github.io/analysis-v2/)
+-   [Level 2 data skills](https://psyteachr.github.io/analysis-v2/)
 
-[Level 3 data skills](https://psyteachr.github.io/stat-models-v1/)
+-   [Level 3 data skills](https://psyteachr.github.io/stat-models-v1/)
 
-[MSc Conv (RM1/RM2)](https://psyteachr.github.io/quant-fun-v2/)
+-   [MSc Conv (RM1/RM2)](https://psyteachr.github.io/quant-fun-v2/)
 
-[MSc RMOPS (Data Skills for Reporoducible Research)](https://psyteachr.github.io/reprores-v3/)
+-   [MSc RMOPS (Data Skills for Reporoducible Research)](https://psyteachr.github.io/reprores-v3/)
 
 ## Analysis in Qualitative Research
 
-[MSc Conv (RM2)](https://wtoivo.github.io/RM2-F2F-quali-book/index.html)
+-   [MSc Conv (RM2)](https://wtoivo.github.io/RM2-F2F-quali-book/index.html)
 
-[MSc Conv ODL (RM2 ODL)](https://wtoivo.github.io/RM2-ODL-quali-book/index.html)
+-   [MSc Conv ODL (RM2 ODL)](https://wtoivo.github.io/RM2-ODL-quali-book/index.html)
 
-[Activity 2 from Lab 9 in RM2](https://wtoivo.github.io/RM2-F2F-quali-book/labs.html#lab-9-activity-2-going-deeper-in-your-analysis)
+-   [Activity 2 from Lab 9 in RM2](https://wtoivo.github.io/RM2-F2F-quali-book/labs.html#lab-9-activity-2-going-deeper-in-your-analysis)
 
 ## General writing advice
 
-[My suggestions](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EbwPxiMzqMBDqJ0cEwkwLhoBqpcaSxzpf3K-VG1YePhHSg?e=cpfho9) on writing a dissertation
+-   [General writing tips for quantitative research](https://bartlettje.github.io/RM1_Resources/Resources.html) (from the RM1 team): (Chapters 17-25)
 
-[General writing tips for quantitative research](https://bartlettje.github.io/RM1_Resources/Resources.html) (from the RM1 team): (Chapters 17-25)
-
-[General writing tips for qualitative research](https://wtoivo.github.io/RM2-ODL-quali-book/academic-writing.html) (from the RM2 team)
+-   [General writing tips for qualitative research](https://wtoivo.github.io/RM2-ODL-quali-book/academic-writing.html) (from the RM2 team)
 
 ## Writing structure
 
-[Structuring paragraphs (PEEL) (Research Methods 1 team)](https://bartlettje.github.io/RM1_Resources/academic-writing.html?q=peel#paragraph-structur)
+-   [Structuring paragraphs (PEEL) (Research Methods 1 team)](https://bartlettje.github.io/RM1_Resources/academic-writing.html?q=peel#paragraph-structur)
 
-[Reverse outlines](https://explorationsofstyle.com/2011/02/09/reverse-outlines/)
+-   [Reverse outlines](https://explorationsofstyle.com/2011/02/09/reverse-outlines/)
 
 ## Perfection paralysis
 
-[Perfection Paralysis resource from Hidden Cirriculum](https://hiddencurriculum.ca/wp-content/uploads/articulate_uploads/perfection-paralysis/index.html#/lessons/hAZjtzG_2XP4B6Quwveg8YvAI2zRrlqi)
+-   [Perfection Paralysis resource from Hidden Cirriculum](https://hiddencurriculum.ca/wp-content/uploads/articulate_uploads/perfection-paralysis/index.html#/lessons/hAZjtzG_2XP4B6Quwveg8YvAI2zRrlqi)
 
 ## Evaluation
 
-Staff version of the RM2 lab slides on [Developing Evaluation in Introductions](https://gla-my.sharepoint.com/:p:/g/personal/ashley_robertson_glasgow_ac_uk/EXaejOFk4LhArFCk51SrtD8B8Y8Y05vjENf9k1Y7WfDPWA?e=yxNt5y)
+-   Staff version of the RM2 lab slides on [Developing Evaluation in Introductions](https://gla-my.sharepoint.com/:p:/g/personal/ashley_robertson_glasgow_ac_uk/EXaejOFk4LhArFCk51SrtD8B8Y8Y05vjENf9k1Y7WfDPWA?e=yxNt5y)
 
-Staff version of the RM2 lab slides on [Developing Evaluation in Discussions](https://gla-my.sharepoint.com/:p:/g/personal/ashley_robertson_glasgow_ac_uk/Eb-chzz3EvJIoBK5TA5SVPABtu8PhcfmV91U9FaehaGhFg?e=6UBAyc)
+-   Staff version of the RM2 lab slides on [Developing Evaluation in Discussions](https://gla-my.sharepoint.com/:p:/g/personal/ashley_robertson_glasgow_ac_uk/Eb-chzz3EvJIoBK5TA5SVPABtu8PhcfmV91U9FaehaGhFg?e=6UBAyc)
 
-[Resources on evaluation in Discussion sections (from RM2 ODL book)](https://wtoivo.github.io/RM2-ODL-quali-book/academic-writing.html#evaluation-in-discussions)
+-   [Resources on evaluation in Discussion sections (from RM2 ODL book)](https://wtoivo.github.io/RM2-ODL-quali-book/academic-writing.html#evaluation-in-discussions)
 
 ## Writing the Discussion
 
-[Guidance from APA about what to include in a Discussion section](https://www.apa.org/gradpsych/2006/01/findings)
+-   [Guidance from APA about what to include in a Discussion section](https://www.apa.org/gradpsych/2006/01/findings)
 
-[Phrasebank from Manchester University](https://www.phrasebank.manchester.ac.uk/discussing-findings/) which students might find helpful as a starter, when discussing their findings
+-   [Phrasebank from Manchester University](https://www.phrasebank.manchester.ac.uk/discussing-findings/) which students might find helpful as a starter, when discussing their findings
 
-[Guidance on completing peer feedback for the Discussion](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EVXw3yeJ3VdAnCDio29Mwl0B0m0FrkMGAtf85XJQIG4tYA?e=5QVmlB)
+-   [Guidance on completing peer feedback for the Discussion](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EVXw3yeJ3VdAnCDio29Mwl0B0m0FrkMGAtf85XJQIG4tYA?e=5QVmlB)
 
 ## Using and applying feedback
 
-[Guidance on the type of feedback I tend to give for dissertations](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/Ead4D1hp_7FOi4TlUVQA_O4B9dZcvARaCYuyIWtw3uO0MA?e=K2rR0W) **Please note, this talks through how I give feedback, so may be different to how you would give feedback on drafts**
+-   [Useful resources on feedback](https://moodle.gla.ac.uk/course/view.php?id=4529&section=5) in the Psychology & Neuroscience General Information moodle, including a [Feedback and Study Guide](https://moodle.gla.ac.uk/mod/book/view.php?id=1076576). **School of Psychology & Neuroscience only**
 
-[Useful resources on feedback](https://moodle.gla.ac.uk/course/view.php?id=4529&section=5) in the Psychology & Neuroscience General Information moodle, including a [Feedback and Study Guide](https://moodle.gla.ac.uk/mod/book/view.php?id=1076576). **School of Psychology & Neuroscience only**
+-   [Hepplestone et al., 2010](https://s3.eu-west-2.amazonaws.com/assets.creode.advancehe-document-manager/documents/hea/private/tfa_student_guide_1568036746.pdf)
 
-[Hepplestone et al., 2010](https://s3.eu-west-2.amazonaws.com/assets.creode.advancehe-document-manager/documents/hea/private/tfa_student_guide_1568036746.pdf)
+-   [HEAdvance resource, August 2012](https://s3.eu-west-2.amazonaws.com/assets.creode.advancehe-document-manager/documents/hea/private/resources/10_feedback_resources_for_your_students2_1568036613.pdf)
 
-[HEAdvance resource, August 2012](https://s3.eu-west-2.amazonaws.com/assets.creode.advancehe-document-manager/documents/hea/private/resources/10_feedback_resources_for_your_students2_1568036613.pdf)
-
-[Salford Uni resource](https://www.salford.ac.uk/sites/default/files/2019-12/Making-the-Most-of-Feedback.pdf)
+-   [Salford Uni resource](https://www.salford.ac.uk/sites/default/files/2019-12/Making-the-Most-of-Feedback.pdf)
 
 ## Tips on presenting
 
@@ -116,10 +168,6 @@ Staff version of the RM2 lab slides on [Developing Evaluation in Discussions](ht
 [Journal Article Reporting Standards (Mixed Methods)](https://apastyle.apa.org/jars/mixed-methods)
 
 [Journal Article Reporting Standards (Race, Ethnicity and Culture)](https://apastyle.apa.org/jars/race-ethnicity-culture)
-
-## Guidelines for reporting research with autistic participants
-
-[Bottema-Beutel et al (2021)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8992888/)
 
 ## All-round useful resource
 

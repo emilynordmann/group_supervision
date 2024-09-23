@@ -9,11 +9,10 @@ book:
   title: Group Dissertation Supervision
   subtitle: ''
   author:
-  - orcid: 0000-0001-9914-3199
+  - orcid: 0000-0002-0806-1081
     name:
-      family: Robertson
-      given: Ashley
-    roles: ~
+      family: Nordmann
+      given: Emily
   doi: ''
   license: CC-BY
   description: This book contains resources for group supervision of dissertation projects
@@ -24,13 +23,6 @@ book:
   google-analytics: ''
   page-navigation: true
   search: true
-  downloads:
-  - pdf
-  - epub
-  sharing:
-  - twitter
-  - facebook
-  - linkedin
   sidebar:
     title: ''
     logo: ''
@@ -46,21 +38,21 @@ book:
     header: ''
     footer: ''
   margin-header: ''
-  page-footer:  CC-BY (2024) Ashley Robertson
+  page-footer:  CC-BY (2024) Emily Nordmann
   chapters:
   - index.qmd
   - sem1wk1.qmd
-  - sem1wk3.qmd
-  - sem1wk5.qmd
-  - sem1wk7.qmd
-  - sem1wk9.qmd
-  - sem1wk11.qmd
-  - sem2wk1.qmd
-  - sem2wk3.qmd
-  - sem2wk5.qmd
-  - sem2wk7.qmd
-  - sem2wk9.qmd
-  - sem2wk11.qmd
+ # - sem1wk3.qmd
+  #- sem1wk5.qmd
+  #- sem1wk7.qmd
+  #- sem1wk9.qmd
+  #- sem1wk11.qmd
+  #- sem2wk1.qmd
+  #- sem2wk3.qmd
+  #- sem2wk5.qmd
+  #- sem2wk7.qmd
+  #- sem2wk9.qmd
+  #- sem2wk11.qmd
   appendices:
   - appendix_a.qmd
   - appendix_b.qmd
