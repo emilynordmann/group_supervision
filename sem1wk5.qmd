@@ -3,52 +3,92 @@ title: "Semester 1 Week 5"
 editor: visual
 ---
 
-## Summarising papers, writing, bullet point introductions 
+## Summarising papers, writing, bullet point introductions
 
-In this session, we cover summarising papers as well as general writing advice before specifically covering bullet point introductions. I then ask students to bring a bullet point introduction with them into the Semester 1 Week 7 session.
+In this session, we cover summarising papers as well as general writing advice before specifically covering bullet point introductions.
 
 I've made some [notes for this session](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EeTpe8KOecFNvPUzETtY3U8B34TUuXe1Ogy6ZFNDAbTPcw?e=EMHCKI). Feel free to use/adapt etc. as you wish.
 
-### Expected progress
+### Expected progress and meeting prep
 
--   By now, I would be expecting to see some ethics drafts coming in and all projects should be firmed up. Rationales should all be submitted.
+-   By now, I would be expecting to see some ethics drafts coming in and all projects should be firmed up.
+-   Proposals should all be submitted.
+-   Read through the resources linked below on summarising and writing and bring one question with you to the session.
 
 ### Summarising papers
 
--   I cover some suggestions that I have on how to summarise papers
-    -   Summarise with intent (what is the purpose?)
-    -   Pull out the key details (remember can go back for further detail)
-    -   Take notes for the Discussion, even when reading for the Introduction
-    -   Further details are linked in the document in *Internal Resources*
+There are a lot of different ways to summarise papers, here are a few suggestions:
+
+-   Have a focus for the summary – what is your purpose?
+    -   Help build a rationale?
+    -   As background in the intro?
+    -   Linking to theory?
+    -   To link to findings in the Discussion?
+-   Try to avoid summarising every single detail, as then it can become too lengthy. Remember that you can refer back to the paper if you need to
+-   Some papers will be more relevant (and therefore will have a longer summary) than others.
+-   Identify what the key points/findings/arguments are
+-   Even when reading papers in preparation for the introduction, keep an eye out for anything that might be useful for your Discussion
+    -   You may like to keep a document specifically for the Discussion and take notes from your reading as you go. You don’t need to use all of these at the end, but it means you have some thoughts written down and don’t have a blank space (which can be a bit overwhelming).
+-   Further details are linked in the document in *Internal Resources*
 
 ### General writing advice
 
--   Writing advice will likely differ from supervisor to supervisor. Here are some of my suggestions (rest are in the document linked previously):
-    -   It's better to write something than nothing
-    -   Know what works for you (e.g. timing, accountability, blocking time out)
-    -   Small goals can be helpful
-    -   Split out **generation** and **editing**
-        -   This can help get over the hurdle of the 'perfect' sentence
+-    It's better to write something/anything than nothing.
+
+    -   Be accountable to others
+
+    -   Body doubling can be useful
+
+    -   Block out time in your calendar
+
+    -   Give yourself small goals - ten minutes of writing. It makes it easier to get started.
+
+    -   Other people report that if you are really struggling, writing down what you are struggling with and just typign something is enough to get you into it, even if you spent the first five mins writing 'I don't have a clue what to write about'
+
+-   Know thyself (do you write better in the morning or at night?)
+
+-   It's easy to get hung up on every single sentence. Split the process of generation and editing
+
+    -   Generation - just focus on getting words on a page. Don't worry about spelling, looking papers up, grammar, punctuation, structure etc. It's about getting the ideas down.
+
+    -   Editing - later (give yourself some time between this stage and the generation stage), focus on getting the things you wrote into a coherent draft. Don't focus on adding new information for now - think about how to structure it and editing it to make the most sense.
 
 ### Bullet point introductions
 
--   I discuss that I would like everyone to write a bullet point introduction for the next session. I tell students that I do not expect this to be perfect, and that it can change down the line
--   We go through some of the suggestions I have for writing this.
--   I ask students to post on the Teams channel before the next group meeting (in two weeks time) but others may choose a different process
--   I signpost them to [Wil's resource](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EXHOBRvN14dLoThMX6zBEd0B7dxgXh3t7zcUhc5H7CSOjw?e=HeDnPs) on developing a rationale for their introduction.
+Things to think about:
+
+-    Set the scene for the reader
+
+-   Do the different paragraphs flow well?
+
+-   A good structure is to start off broad and end narrow (i.e. closer to your study)
+
+-   It can be helpful to use sub-headings, especially if you are covering literature from quite different areas
+
+-   Try to synthesise literature (i.e. pull together literature from various sources, rather than concentrate on a study per paragraph)
+
+-   Is there a theoretical basis for your research?
+
+-   Ensure there is a clear justification for your study
+
+-   End your introduction by presenting your RQ (Qual) or your hypotheses (quant)
+
+For the next group session, I would like you to write a bullet point introduction. I do not expect this to be perfect, and it can change down the line
+
+-   Post your introduction on the Teams channel before the next group meeting (in two weeks time).
 
 ## Internal resources
 
-[My suggestions](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EeTpe8KOecFNvPUzETtY3U8B34TUuXe1Ogy6ZFNDAbTPcw?e=EMHCKI) on summarising papers, writing in general, and developing a bullet point intro
+-   [Ashley's suggestions](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EeTpe8KOecFNvPUzETtY3U8B34TUuXe1Ogy6ZFNDAbTPcw?e=EMHCKI) on summarising papers, writing in general, and developing a bullet point intro
 
-[Wil's resource](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EXHOBRvN14dLoThMX6zBEd0B7dxgXh3t7zcUhc5H7CSOjw?e=HeDnPs) on developing a rationale
+-   [Wil's resource](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EXHOBRvN14dLoThMX6zBEd0B7dxgXh3t7zcUhc5H7CSOjw?e=HeDnPs) on developing a rationale
 
-[General writing tips for quantitative research](https://bartlettje.github.io/RM1_Resources/Resources.html) (from the RM1 team): (Chapters 17-25)
+-   [General writing tips for quantitative research](https://bartlettje.github.io/RM1_Resources/Resources.html) (from the RM1 team): (Chapters 17-25)
 
-[General writing tips for qualitative research](https://wtoivo.github.io/RM2-ODL-quali-book/academic-writing.html) (from the RM2 team)
+-   [General writing tips for qualitative research](https://wtoivo.github.io/RM2-ODL-quali-book/academic-writing.html) (from the RM2 team)
 
 ## External resources
 
-Here's an example of a template for summarising a paper, which can be helpful for students if they want some guidance on where to start.
+Here's an example of a template for summarising a paper, which can be helpful if youwant some guidance on where to start.
 
-[Document link](https://teachpsychscience.org/index.php/a-guide-and-template-for-taking-notes-on-research/815/communicating-science/)
+-   [Document link](https://teachpsychscience.org/index.php/a-guide-and-template-for-taking-notes-on-research/815/communicating-science/)
