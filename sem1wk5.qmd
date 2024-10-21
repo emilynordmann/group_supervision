@@ -33,17 +33,19 @@ There are a lot of different ways to summarise papers, here are a few suggestion
 
 ### General writing advice
 
--    It's better to write something/anything than nothing.
+-   It's better to write something/anything than nothing.
 
-    -   Be accountable to others
+```         
+-   Be accountable to others
 
-    -   Body doubling can be useful
+-   Body doubling can be useful
 
-    -   Block out time in your calendar
+-   Block out time in your calendar
 
-    -   Give yourself small goals - ten minutes of writing. It makes it easier to get started.
+-   Give yourself small goals - ten minutes of writing. It makes it easier to get started.
 
-    -   Other people report that if you are really struggling, writing down what you are struggling with and just typign something is enough to get you into it, even if you spent the first five mins writing 'I don't have a clue what to write about'
+-   Other people report that if you are really struggling, writing down what you are struggling with and just typign something is enough to get you into it, even if you spent the first five mins writing 'I don't have a clue what to write about'
+```
 
 -   Know thyself (do you write better in the morning or at night?)
 
@@ -57,7 +59,7 @@ There are a lot of different ways to summarise papers, here are a few suggestion
 
 Things to think about:
 
--    Set the scene for the reader
+-   Set the scene for the reader
 
 -   Do the different paragraphs flow well?
 

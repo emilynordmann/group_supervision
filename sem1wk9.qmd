@@ -3,56 +3,60 @@ title: "Semester 1 Week 9"
 editor: visual
 ---
 
-## Collecting data, developing evaluation for the introduction 
+## Data and developing evaluation for the introduction
 
-In this session, I tend to cover data collection (i.e. trying to pre-empt any issues before they happen) and also developing evaluation of the Introduction section. I usually have both quant and qual projects so cover both types of data collection - I would only cover one though, if students were only doing one type. We then cover evaluation in Intros using some resources that Wil and I developed for our Research Methods 2 course. (Discussions are covered in [Semester 2 Week 5](https://ashleyerobertson.github.io/group_supervision/sem2wk5.html))
-
-Although I cover data collection in Week 7 (if I have time), that was an initial discussion to put it at the forefront of their minds and this is more in-depth, as they should be close to having ethics approved if they don't already.
+In this session, we will cover any data collection issues that you may have and also develop evaluation of the Introduction section.
 
 ### Expected progress
 
 -   By now, ethics approvals should be imminent or through already
--   Some students may have already started data collection, or might be getting materials together in anticipation of starting
--   If doing secondary data analysis, the timeline is a bit less pressured
--   Students should be working on introductions
+-   If you're doing primary data collection, you may have already started data collection, or might be getting materials together in anticipation of starting
+-   If doing secondary data analysis, the timeline is a bit less pressured but by this point you should know exactly where your data is coming from and what you can do with it (caveats about unexpected hurdles not withstanding).
+-   You should be actively working on your introductions.
 
-### Data Collection (Quant projects)
+### Data Collection (Quant survey projects)
 
-(N.B. I only supervise survey-based quant projects, so my notes refer to this only)
-
--   How is data going to be collected (e.g. Qualtrics, experimentum?). Student should use university email, not personal email for account.
-    -   Even if ethics isn't through yet, can still familiarise themselves with it.
--   Are students clear on how to present their study on whichever system they are using?
+-   If you are collecting primary data, for surveys and questionnaires I prefer Qualtrics. We have a UofG licence and there’s more information and the login via [UofG IT](https://www.gla.ac.uk/myglasgow/it/softwareandonlinetools/qualtrics/).
+    -   Qualtrics is very powerful and doesn’t just do surveys, you can build experiments with randomised trials and between-subject conditions into it: [Building a psychology experiment](http://sites.cognitivescience.co/qualtrics/building-a-psychology-experiment) 
 -   Test, test and test again
-    -   It's important to make sure that scales are presented correctly. I've had one student have to start from scratch before because they put Strongly Agree - Disagree - neither agree nor disagree - Agree - Strongly Disagree and only noticed mid-way through data collection
+    -   It's important to make sure that scales are presented correctly. We've had one student have to start from scratch before because they put Strongly Agree - Disagree - neither agree nor disagree - Agree - Strongly Disagree and only noticed mid-way through data collection
     -   We also had one project where the participants saw a picture and it wasn't clear from the data which picture was presented (and it was the between subjects condition) and she had to start data collection again.
-    -   I emphasise to students that they should not start data collection without extensive testing and I reiterate to let me know when it is ready for me to look over. Other supervisors may differ on this, but it's caused issues in the past (see examples above).
--   Students need Emily's [extended debrief](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EUSN-v4byCtGut-nlQeYqQQBwg8oTSElTx0NbAe98SZ_tw?e=2YZNvP) if going to recruit Level 1 students
--   SONA is used to recruit Level 1 students (students should see [Emily's sway](https://sway.cloud.microsoft/7OlDu5WmOmFjqDki?ref=Link&loc=play) on how to do this)
+    -   Do not start data collection without extensive testing and I reiterate to let me know when it is ready for me to look over. Other supervisors may differ on this, but it's caused issues in the past (see examples above).
+    -   You can[simulate responses in Qualtrics](https://www.qualtrics.com/support/survey-platform/survey-module/survey-tools/generating-test-responses/) which can help you test that your planned analyses are possible. You can also write the code for the final analysis before you data is collected which means when the time comes, all you need to do is run the code!
+-   If you want to recruit Level 1 student you will need to provide an extended debrief and use Sona[ - see my sway](https://sway.cloud.microsoft/7OlDu5WmOmFjqDki?ref=Link&loc=play) on how to do this)
 
 ### Data Collection (Qual projects)
 
--   How are students collecting data?
+-   How are you planning on collecting data?
     -   If online, must use GDPR-approved system (e.g. Zoom or Teams)
     -   If in person, will need a) appropriate recording equipment, b) a quiet space
--   Some supervisors differ on their opinions on this, but I ask students to send out questions in advance for all participants, as it can be more accessible for certain people (e.g. those who are neurodivergent or who don't speak English as a first language)
--   I ask students how they are feeling about collecting data. Typically, they can be a bit nervous
-    -   Important to practise setting things up/recording etc.
-    -   Good to pilot things (e.g. with a friend). I'm also happy to help in office hours etc.
-    -   Can practise with each other (i.e. others in the group) to help get comfortable
-    -   Can be helpful to write a list of everything need to cover at the start and end so that they don't forget anything
+-   Some supervisors differ on their opinions on this, but I would encourage you to send out questions in advance for all participants, as it can be more accessible for certain people (e.g. those who are neurodivergent or who don't speak English as a first language)
+-   Think about the process of collecting - it's entirely normal to be a bit nervous
+    -   Practise setting things up/recording etc.
+    -   It's good to pilot things (e.g. with a friend). I'm also happy to help in office hours etc. and you can also practise with each other (i.e. others in the group) to help get comfortable
+    -   Can be helpful to write a list of everything you need to cover at the start and end so that they don't forget anything
+
+### Data collection (secondary data)
+
+By now you should have a concrete plan for your data collection / source.
+
+-   If you're collecting Reddit data, you should have piloted downloading / searching for relevant URLs.
+
+-   Inclusion, exclusion, and data saturation criteria are also really important - regardless of the data source, you might not want to use all of it and you may need to set a rule for when to stop collecting data (e.g., if you're using social media where there is essentially unlimited data). Make sure you have these criteria set in advance as much as possible.
+
+-   At this point you also need to ensure that the data you have access to can actually be analysed in the way you've planned. With secondary data there's sometimes unforeseen difficulties you'll run into that you can't plan for, but taking the time to think things through as much as possible will save you time in the long-run.
+
+-   If things do go wrong or change from the intended plan, don't worry - what's important is transparency about when and why decisions were made, not that you got everything right in advance
 
 ### Evaluation in introductions
 
-In RM2, Wil and I have made some excerpts from intros and discussions for our labs. In today's session, I only cover intros and do discussions in a later session.
+In RM2, Wil and Ashley have made some excerpts from intros and discussions for their labs. In today's session, we will cover intros and do discussions in a later session.
 
-Here, I show the students the poor and stronger versions and we then have a discussion about it [(slides with notes)](https://gla-my.sharepoint.com/:p:/g/personal/ashley_robertson_glasgow_ac_uk/EXaejOFk4LhArFCk51SrtD8B8Y8Y05vjENf9k1Y7WfDPWA?e=yxNt5y). The three things we look at are: - Synthesising evidence - Focused criticism - Why is your study worth doing?
+We'll review the poor and stronger versions and we then have a discussion about it [(slides with notes)](https://gla-my.sharepoint.com/:p:/g/personal/ashley_robertson_glasgow_ac_uk/EXaejOFk4LhArFCk51SrtD8B8Y8Y05vjENf9k1Y7WfDPWA?e=yxNt5y). The three things we look at are: - Synthesising evidence - Focused criticism - Why is your study worth doing?
 
 ## Internal resources
 
-Guidance from Dr Emily Nordmann on [extended debriefs for Level 1 students](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EUSN-v4byCtGut-nlQeYqQQBwg8oTSElTx0NbAe98SZ_tw?e=2YZNvP) and [how to recruit on SONA](https://sway.cloud.microsoft/7OlDu5WmOmFjqDki?ref=Link&loc=play)
-
-Staff version of the lab slides on [Developing Evaluation in Introductions](https://gla-my.sharepoint.com/:p:/g/personal/ashley_robertson_glasgow_ac_uk/EXaejOFk4LhArFCk51SrtD8B8Y8Y05vjENf9k1Y7WfDPWA?e=yxNt5y) by Dr Wil Toivo and I
+Staff version of the lab slides on [Developing Evaluation in Introductions](https://gla-my.sharepoint.com/:p:/g/personal/ashley_robertson_glasgow_ac_uk/EXaejOFk4LhArFCk51SrtD8B8Y8Y05vjENf9k1Y7WfDPWA?e=yxNt5y) by Dr Wil Toivo and Dr. Ashley Roberston.
 
 ## External resources
 

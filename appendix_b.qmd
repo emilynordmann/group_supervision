@@ -11,7 +11,7 @@ In this chapter, I've included all resources that are included in the book. They
 
 [Research Methods 2](https://wtoivo.github.io/RM2-ODL-quali-book/qualitative-report.html?q=research%20ques#developing-a-research-question) has some tips for students on how to construct Research Questions for qualitative research
 
-## Secondary data 
+## Secondary data
 
 If you’re using secondary data for your dissertation, this means that you’re not going to create data yourself, instead, you’re going to use data that already exists. Secondary data can offer several advantages such as saving time, resources, and providing access to a wider scope of data than might be feasible for you to collect yourself. Secondary data can come in several different forms.
 
@@ -27,34 +27,28 @@ Finally, it's essential to consider any ethical implications of your data source
 
 -   [Journal of Open Psychology Data](https://openpsychologydata.metajnl.com/) 
 
-```{=html}
 <!-- -->
-```
+
 -   [Secondary data sources](https://tvpollet.github.io/secondary_data_sources) - useful blog with a list of databases you can use to source secondary data 
 
-```{=html}
 <!-- -->
-```
+
 -   [BPS Ethics guidelines for internet-mediated research](https://explore.bps.org.uk/content/report-guideline/bpsrep.2021.rep155) 
 
-```{=html}
 <!-- -->
-```
+
 -   [Preregistration of Secondary Data Analysis Template](https://osf.io/jqxfz) 
 
-```{=html}
 <!-- -->
-```
+
 -   [Studying Reddit: A Systematic Overview of Disciplines, Approaches, Methods, and Ethics](https://journals.sagepub.com/doi/full/10.1177/20563051211019004) 
 
-```{=html}
 <!-- -->
-```
+
 -   [‘Scraping’ Reddit posts for academic research? Addressing some blurred lines of consent in growing internet-based research trend during the time of Covid-19](https://www.tandfonline.com/doi/full/10.1080/13645579.2022.2111816) 
 
-```{=html}
 <!-- -->
-```
+
 -   [Secondary Data Analysis: An Introduction for Psychologists](https://www.jstor.org/stable/j.ctv1chrxvs) 
 
 ## Ethics
@@ -69,7 +63,7 @@ Finally, it's essential to consider any ethical implications of your data source
 
 -   If you are submitting to College ethics you will need a copy of my CV which you can [find here](https://gla-my.sharepoint.com/:b:/g/personal/emily_nordmann_glasgow_ac_uk/EQnICX67QuNGmyRGVp9LhcIBe2uGbVWtFaBrhkGeToQKaQ?e=hRa6mN). 
 
-## **Software** 
+## **Software**
 
 If you are collecting primary data, for surveys and questionnaires I prefer Qualtrics. We have a UofG licence and there’s more information and the login via [UofG IT](https://www.gla.ac.uk/myglasgow/it/softwareandonlinetools/qualtrics/).  
 
