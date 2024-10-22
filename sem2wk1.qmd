@@ -3,23 +3,29 @@ title: "Semester 2 Week 1"
 editor: visual
 ---
 
-## Receiving and applying feedback, presenting work 
+## Receiving and applying feedback, presenting work
 
-In this session, we see where everyone is now that we are back for Semester 2 (and the deadline will suddenly be just over two months away!). I cover receiving and applying feedback in this session, as well as presentation research.
-
-At the end of the session, I tell students that the next group session is on analysis and ask them to bring any questions they have in for the session so we can cover them together.
+In this session, we see where everyone is now that we are back for Semester 2 (and the deadline will suddenly be just over two months away!). We will discuss receiving and applying feedback in this session, as well as presentation research.
 
 ### Expected progress
 
--   Students should have submitted or be not too far off submitting a draft of the Introduction for feedback. They should also be working on their Methods.
--   Students should be recruiting participants by now
+-   You should have submitted or be not too far off submitting a draft of the Introduction for feedback. You should also be working on you Methods.
+-   If you're doing primary data, you should be recruiting participants by now.
+-   If you're doing secondary data, you should have your final dataset and plan.
 
 ### Receiving and applying feedback
 
--   As part of the group session, I talk about [the type of feedback I give](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/Ead4D1hp_7FOi4TlUVQA_O4B9dZcvARaCYuyIWtw3uO0MA?e=K2rR0W) (i.e. what students can expect when they receive feedback from me).
--   I also tell them how they can get the most out of the feedback that I give (e.g. asking questions after receiving it, leaving comments in their work for me to respond to)
--   This will be individual to each supervisor, but I've provided a summary of what I discuss with the students below. I don't give them this, but it has the main things I talk about in the discussion.
--   I cover a few, select, parts of the external resources linked below and we discuss how they might be able to apply these to their work in semester 2.
+The main type of feedback that you will receive from me for any drafts will be:
+
+-   In-text, and will either say what you did well, will say what could be improved or will ask a question.
+
+-   I may point out one or two examples of things that could be improved throughout the draft – this does not mean that the ones I chose are the only examples. Try to look at the things I am saying and see if you can spot other examples. Often, this is to do with succinctness of writing, or overly using long/short paragraphs. I might give you an example of how you could cut out information you don't need, but it would be very repetitive to go through your whole draft with this level of detail.
+
+-   If you are confused by one of my comments, think about why I might have made it, e.g. is it that you made a particular point, but it could be clearer? Did you cover it but somewhere else?
+
+-   I will also give an overall summary comment I’ll provide the main things you do well and the main things I think it would be good to focus on. It's likely that I'll have covered these in more detail in the in-text comments
+
+-   You might disagree with some of my feedback and that's okay! However, I encourage you to discuss it with me and I'll try to explain why I read it a particular way. You might then either decide to keep it as is or make some sort of change to make your intentions clearer.
 
 ### Presentations
 
@@ -29,8 +35,6 @@ At the end of the session, I tell students that the next group session is on ana
 -   We then discuss [some of my tips](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EQh-1I7HCsBGkpcK6WmxPUUB_7JmqoRw1LINLhLWATig6w?e=veACdI) for this (caveat: others may disagree) and together we plan out some concrete actions of what they could do to improve their experiences of presenting.
 
 ## Internal resources
-
-[Guidance on the type of feedback I tend to give for dissertations](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/Ead4D1hp_7FOi4TlUVQA_O4B9dZcvARaCYuyIWtw3uO0MA?e=K2rR0W)
 
 [Guidance on presentations](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EQh-1I7HCsBGkpcK6WmxPUUB_7JmqoRw1LINLhLWATig6w?e=2AYZfm)
 

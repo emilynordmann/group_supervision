@@ -9,17 +9,17 @@ This is the final group session in Semester 1. It's good to touch base and see w
 
 In this session, I will cover structure (specifically thinking about reverse outlines, so that larger structure of a document) and we also discuss the Journal Article Reporting Standards (JARS).
 
-It's also important that you get some rest over Christmas, and what they are looking forward to in Semester 2. I also mention the BPS conference and ask them to have a think about presenting there next semester.
+It's also important that you get some rest over Christmas! We will discuss Semester 2 including the Level 4 and BPS conference.
 
 ### Expected progress
 
--   I may have seen a few intros at this point, but it's likely students are still working on these.
--   Some students will usually have started data collection.
+-   I may have seen a few intros at this point, but it's likely most of you will still be working on these.
+-   Those doing primary data collection should have started or be imminent.
 -   Hopefully all ethical approvals should be back by now
 
 ### Structure
 
--   I mainly cover structure between paragraphs rather than within them here, but if you wanted to cover structure in a paragraph, there are some useful resources on [PEEL in Chapter 20.2](https://bartlettje.github.io/RM1_Resources/academic-writing.html?q=peel#paragraph-structure) of the Research Methods 1 book.
+-   We'll mainly discuss structure between paragraphs rather than within them here, but if you wanted to cover structure in a paragraph, there are some useful resources on [PEEL in Chapter 20.2](https://bartlettje.github.io/RM1_Resources/academic-writing.html?q=peel#paragraph-structure) of the Research Methods 1 book.
 -   I use the [Reverse Outlines resource](https://explorationsofstyle.com/2011/02/09/reverse-outlines/) to discuss reviewing structure of a particular section (e.g. the Introduction)
 -   Some things we discuss:
     -   a broad --\> narrow structure can be helpful for the introduction (and the reverse for the discussion)
@@ -30,14 +30,15 @@ It's also important that you get some rest over Christmas, and what they are loo
 
 ### Journal Article Reporting Standards (JARS) and other resources
 
--   In the second half of the session, we cover JARS guidelines. These are very useful, particularly for the methods sections and often results too (there tends to be less guidance on intro/discussion).
--   The guidelines give some insight into what students might want to include, and has some suggestions for people who would be reviewing an article (i.e. what might they look for) which are useful to know
+-   In the second half of the session, we will cover JARS guidelines. These are very useful, particularly for the methods sections and often results too (there tends to be less guidance on intro/discussion).
+-   The guidelines give some insight into what you might want to include, and has some suggestions for people who would be reviewing an article (i.e. what might they look for) which are useful to know
     -   [Journal Article Reporting Standards (Qual)](https://apastyle.apa.org/jars/qualitative)
     -   [Journal Article Reporting Standards (Quant)](https://apastyle.apa.org/jars/quantitative)
     -   [Journal Article Reporting Standards (Mixed Methods)](https://apastyle.apa.org/jars/mixed-methods)
--   In addition, there have been Journal Article Reporting Standards for Race, Ethnicity, and Culture released
+-   In addition, there have been Journal Article Reporting Standards for Race, Ethnicity, and Culture released and there is also a full APA resource on bias-free language covering age, disability, gender, racial and ethnic identity, sexual orientation, socioeconomic status, and intersectionality.
     -   [Journal Article Reporting Standards (Race, Ethnicity and Culture)](https://apastyle.apa.org/jars/race-ethnicity-culture)
--   As most of my research has been in autism, if I have any students working on this topic, I share a resource by Bottema-Beutel et al (2021) on [avoiding ableist language](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8992888/)
+    -   [APA Style Guide: Bias-Free Language](https://apastyle.apa.org/style-grammar-guidelines/bias-free-language)
+    -   [APA Inclusive Language Guide](https://www.apa.org/about/apa/equity-diversity-inclusion/language-guidelines)
 
 ## Internal resources
 
@@ -56,3 +57,7 @@ It's also important that you get some rest over Christmas, and what they are loo
 [Journal Article Reporting Standards (Race, Ethnicity and Culture)](https://apastyle.apa.org/jars/race-ethnicity-culture)
 
 [Bottema-Beutel et al (2021)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8992888/)
+
+[APA Style Guide: Bias-Free Language](https://apastyle.apa.org/style-grammar-guidelines/bias-free-language)
+
+[APA Inclusive Language Guide](https://www.apa.org/about/apa/equity-diversity-inclusion/language-guidelines)
